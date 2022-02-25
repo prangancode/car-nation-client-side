@@ -12,7 +12,7 @@ const ManageProducts = () => {
 	// load all products by email
 	useEffect(() => {
 		setProcessing(true);
-		const url = `http://localhost:5000/products`;
+		const url = `https://guarded-beach-83428.herokuapp.com/products`;
 		axios
 			.get(url)
 			.then(res => {

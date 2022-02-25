@@ -10,7 +10,7 @@ const BlogDetail = () => {
 
 	// load blog with id
 	useEffect(() => {
-		const url = `http://localhost:5000/blogs/${blogId}`;
+		const url = `https://guarded-beach-83428.herokuapp.com/blogs/${blogId}`;
 		axios.get(url).then(res => {
 			console.log(res.data);
 			setBlog(res.data);

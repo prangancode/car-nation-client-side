@@ -16,7 +16,7 @@ const ProductDetail = () => {
 
 	// load product detail with id
 	useEffect(() => {
-		const url = `http://localhost:5000/products/${productId}`;
+		const url = `https://guarded-beach-83428.herokuapp.com/products/${productId}`;
 		axios
 			.get(url)
 			.then(res => {

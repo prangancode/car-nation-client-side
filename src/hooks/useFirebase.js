@@ -211,7 +211,7 @@ const useFirebase = () => {
 	// save user to database
 	const saveUserToDatabase = (email, displayName, method) => {
 		const user = { email, displayName };
-		const url = `http://localhost:5000/users`;
+		const url = `https://guarded-beach-83428.herokuapp.com/users`;
 		axios({
 			method: method,
 			url: url,
@@ -231,7 +231,7 @@ const useFirebase = () => {
 
 	// check is admin
 	useEffect(() => {
-		const url = `http://localhost:5000/users/${user?.email}`;
+		const url = `https://guarded-beach-83428.herokuapp.com/users/${user?.email}`;
 		axios
 			.get(url)
 			.then(res => {

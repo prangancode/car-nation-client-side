@@ -18,7 +18,7 @@ const Reviews = () => {
 	useEffect(() => {
 		setIsLoading(true);
 		axios
-			.get('http://localhost:5000/reviews')
+			.get('https://guarded-beach-83428.herokuapp.com/reviews')
 			.then(res => {
 				// console.log(res.data);
 				const allReviews = res.data;

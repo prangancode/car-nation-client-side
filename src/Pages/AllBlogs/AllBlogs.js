@@ -14,7 +14,7 @@ const AllBlogs = () => {
 	useEffect(() => {
 		setIsLoading(true);
 		axios
-			.get('http://localhost:5000/blogs')
+			.get('https://guarded-beach-83428.herokuapp.com/blogs')
 			.then(res => {
 				// console.log(res.data);
 				setBlogs(res.data);

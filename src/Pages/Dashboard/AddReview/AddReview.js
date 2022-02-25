@@ -32,7 +32,7 @@ const AddReview = () => {
 		}
 
 		axios
-			.post('http://localhost:5000/reviews', data)
+			.post('https://guarded-beach-83428.herokuapp.com/reviews', data)
 			.then(res => {
 				// console.log(res);
 				if (res.data.insertedId) {

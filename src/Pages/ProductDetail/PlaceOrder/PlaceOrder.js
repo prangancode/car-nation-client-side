@@ -22,7 +22,7 @@ const PlaceOrder = ({ product }) => {
 		data.status = 'Pending';
 		// console.log(data);
 		axios
-			.post('http://localhost:5000/orders', data)
+			.post('https://guarded-beach-83428.herokuapp.com/orders', data)
 			.then(res => {
 				if (res.data.insertedId) {
 					setOrderSuccess(true);

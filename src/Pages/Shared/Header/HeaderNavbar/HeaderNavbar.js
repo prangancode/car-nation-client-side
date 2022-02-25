@@ -11,7 +11,8 @@ const HeaderNavbar = () => {
 
 	// nav link active style
 	const navLinkActiveStyle = {
-		color: 'var(--clr-primary-dark)'
+		color: 'var(--clr-primary-dark)',
+		backgroundColor: 'transparent'
 	}
 
 	return (

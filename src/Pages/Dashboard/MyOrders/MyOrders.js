@@ -12,7 +12,7 @@ const MyOrders = () => {
 	// load all orders by email 
 	useEffect(() => {
 		setProcessing(true);
-		const url = `http://localhost:5000/orders?email=${user.email}`;
+		const url = `https://guarded-beach-83428.herokuapp.com/orders?email=${user.email}`;
 		axios
 			.get(url)
 			.then(res => {

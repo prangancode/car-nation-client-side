@@ -21,7 +21,7 @@ const AddProduct = () => {
 	const onSubmit = data => {
 		console.log(data);
 		axios
-			.post('http://localhost:5000/products', data)
+			.post('https://guarded-beach-83428.herokuapp.com/products', data)
 			.then(res => {
 				// console.log(res);
 				if (res.data.insertedId) {
