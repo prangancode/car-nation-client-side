@@ -1,0 +1,738 @@
+[
+    {
+        "name": "Audi E-Tron 2019 4K",
+        "brandName": "Audi",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/audi_e_tron_2019_4k-1280x720-1-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/audi_e_tron_2019_4k-1280x720-1-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "6700",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Lexus LS 500",
+        "brandName": "Lexus",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/04/2018_lexus_ls_500_4k_2-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/04/2018_lexus_ls_500_4k_2-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "7000",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Volkswagen Atlas Cross",
+        "brandName": "Volkswagen",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/volkswagen_atlas_cross_sport_concept_2018-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/volkswagen_atlas_cross_sport_concept_2018-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "11300",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Chevrolet Orlando Redline",
+        "brandName": "Chevrolet",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/chevrolet_orlando_redline_2018_4k-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/chevrolet_orlando_redline_2018_4k-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "9300",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Hyundai Santa Fe 2019 4K",
+        "brandName": "Hyundai",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/hyundai_santa_fe_2019_4k-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/hyundai_santa_fe_2019_4k-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "5300",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Volkswagen Tiguan Offroad",
+        "brandName": "Volkswagen",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/volkswagen_tiguan_offroad_4k-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/volkswagen_tiguan_offroad_4k-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "12800",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "BMW X5 XDrive40i",
+        "brandName": "BMW",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "13500",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Mercedes-Benz GLE 450",
+        "brandName": "Mercedes-Benz",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/mercedes_benz_gle_450_4matic_amg_line_2019_4k-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/mercedes_benz_gle_450_4matic_amg_line_2019_4k-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "15000",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "THE BMW 5",
+        "brandName": "BMW",
+        "image": "https://www.bmw.com.bd/content/dam/bmw/common/all-models/x-series/x5/2021/highlights/bmw-x5-onepager-sp-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1624267916010.jpg",
+        "gallaryImage": {
+            "gimg1": "https://www.bmw.com.bd/content/dam/bmw/common/all-models/x-series/x5/2021/highlights/bmw-x5-onepager-sp-desktop.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1624267916010.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "15000",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "2022 Highlander Hybrid",
+        "brandName": "Toyota",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2022/highlanderhybrid/base.png?bg=fff&fm=webp&q=90&w=768",
+        "gallaryImage": {
+            "gimg1": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2022/highlanderhybrid/base.png?bg=fff&fm=webp&q=90&w=768",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "15000",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Venza",
+        "brandName": "Toyota",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2022/venza/base.png?bg=fff&fm=webp&q=90&w=768",
+        "gallaryImage": {
+            "gimg1": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2022/venza/base.png?bg=fff&fm=webp&q=90&w=768",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "15000",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "versa",
+        "brandName": "Nissan",
+        "image": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/versa_sedan/2022/overview/cards/nissan-versa-v2.jpg",
+        "gallaryImage": {
+            "gimg1": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/versa_sedan/2022/overview/cards/nissan-versa-v2.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/10/bmw_x5_xdrive40i_2018_4k-1280x720-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "15000",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Audi E-Tron 2019 4K",
+        "brandName": "Audi",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/audi_e_tron_2019_4k-1280x720-1-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/audi_e_tron_2019_4k-1280x720-1-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "6700",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Lexus LS 500",
+        "brandName": "Lexus",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/04/2018_lexus_ls_500_4k_2-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/04/2018_lexus_ls_500_4k_2-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "7000",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Volkswagen Atlas Cross",
+        "brandName": "Volkswagen",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/volkswagen_atlas_cross_sport_concept_2018-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/volkswagen_atlas_cross_sport_concept_2018-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "11300",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    },
+    {
+        "name": "Chevrolet Orlando Redline",
+        "brandName": "Chevrolet",
+        "image": "https://autoimage.templines.org/wp-content/uploads/2018/10/chevrolet_orlando_redline_2018_4k-1280x720-750x420.jpg",
+        "gallaryImage": {
+            "gimg1": "https://autoimage.templines.org/wp-content/uploads/2018/10/chevrolet_orlando_redline_2018_4k-1280x720-750x420.jpg",
+            "gimg2": "https://autoimage.templines.org/wp-content/uploads/2018/04/a02-750x420.jpg",
+            "gimg3": "https://autoimage.templines.org/wp-content/uploads/2018/04/a03-750x420.jpg",
+            "gimg4": "https://autoimage.templines.org/wp-content/uploads/2018/04/a04-750x420.jpg",
+            "gimg5": "https://autoimage.templines.org/wp-content/uploads/2018/04/a05-750x420.jpg",
+            "gimg6": "https://autoimage.templines.org/wp-content/uploads/2018/04/a06-750x420.jpg"
+        },
+        "price": "9300",
+        "description": {
+            "category": "description",
+            "desc": "This 2018 model car is Brilliant Black Crystal Pearlcoat with a Black/Diesel Gray interior. Buy confidence knowing Jeep Dodge Ram Surprise has been exceeding customer expectations for many years and always provide customers with a great value!",
+            "desc_feature": {
+                "question": {
+                    "ques1": "Exterior & Interior Feature",
+                    "ques2": "Vehicle Body Features",
+                    "ques3": "Car Safety Features"
+                },
+                "answer": {
+                    "ans1": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans2": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate.",
+                    "ans3": "Elit sed uao eiusmod tempor incididunt ut labore et dolore magna aliqua uat enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea duis aute irure dolor in reprehenderit in voluptate."
+                }
+            }
+        },
+        "specs": {
+            "color": "Black",
+            "engine": "2.0-liter four-cylinder",
+            "horsepower": "200",
+            "acceleration": "7.62",
+            "topSpeed": "130"
+        },
+        "features": {
+            "category": "features",
+            "fea1": "Air Conditioning",
+            "fea2": "Xenon",
+            "fea3": "Parking Sensors",
+            "fea4": "Cruise Control",
+            "fea5": "ABS",
+            "fea6": "ESP"
+        }
+    }
+]

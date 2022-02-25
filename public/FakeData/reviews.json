@@ -1,0 +1,58 @@
+[
+    {
+        "userName": "Michelle Brown",
+        "review": "The staff and team are honest, kind, and helpful.In all of my experience with dealerships and mechanics,I have had the best experiences with BMW.I am grateful for the treatment and service I receive.",
+        "rating": "5",
+        "gender": "Male",
+        "location": "UAE",
+        "userImg": "https://tailwindcss.com/_next/static/media/kentcdodds.f2473a4e9577b345f55d0467a0a37ef5.jpg"
+    },
+    {
+        "userName": "Robert Burton",
+        "review": "I was really impressed with the service. They opened on time.An advisor met with me to arrange service on my car. He reviewed my information, offer a coupon and informed me how service on the car would be communicated to me. Service was top notch. Thank you",
+        "rating": "5",
+        "gender": "Male",
+        "location": "USA",
+        "userImg": "https://tailwindcss.com/_next/static/media/debbie-obrien.fd2a06311039f2d0bf1828d36c209714.jpg"
+    },
+    {
+        "userName": "Stephene Brisard",
+        "review": "I had a great experience purchasing my car with Andre. He was personable, knowledgeable and professional. The transaction went smooth and I was driving home a really great car in a matter of less than 3 hours.",
+        "rating": "5",
+        "gender": "Female",
+        "location": "USA",
+        "userImg": "https://tailwindcss.com/_next/static/media/ryan-florence.34fb7796afb30db4ae598b06a00cbee3.jpg"
+    },
+    {
+        "userName": "Tim Woodford",
+        "review": "Excellent service. I brought mine 2018 X5 in for an oil change, check up, and wheel alignment. Andrew Kim did an excellent job and was very responsive with all of my questions throughout the day.",
+        "rating": "5",
+        "location": "Japan",
+        "gender": "Male",
+        "userImg": "https://tailwindcss.com/_next/static/media/didiercatz.a2942b609304cb35da03f1fd7a0be49d.jpg"
+    },
+    {
+        "userName": "Flora Gomes",
+        "review": "I come from Asgard to this Earthrealm to take care of my fiance Jane Foster. I love to ride with her and that's why I need a luxurious car. And everybody knows that the CAR NATION is the best place for this! Always thumbs up",
+        "rating": "5",
+        "location": "Asgard",
+        "gender": "Male",
+        "userImg": "https://tailwindcss.com/_next/static/media/shrutibalasa.6c78a0cff2a209188089462ef780d906.jpg"
+    },
+    {
+        "userName": "Vishnuu Appaya Dhanabalan",
+        "review": "Chris kept me updated throughout and added my extra service requests over the phone as well. Ali was very kind and a honest gentleman!Hon scheduled a drive along to clear out my concerns after the service as well.",
+        "rating": "5",
+        "location": "India",
+        "gender": "Male",
+        "userImg": "https://tailwindcss.com/_next/static/media/frontendben.94ef9352186548fb4b47115332f7a911.jpg"
+    },
+    {
+        "userName": "Therese Cordova",
+        "review": "In the past 4 years, I have bought 2 cars at this dealership and each time it was a pleasurable experience.  Every single person from the beginning to the end treated me with respect,professionalism, and on top of that, you felt like you got a good deal for your car.",
+        "rating": "5",
+        "location": "United Kingdom",
+        "gender": "Female",
+        "userImg": "https://tailwindcss.com/_next/static/media/guillermo-rauch.f9555769f9ff1d42057c689278bc0876.jpg"
+    }
+]

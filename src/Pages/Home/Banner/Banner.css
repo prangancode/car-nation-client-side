@@ -1,0 +1,22 @@
+/**
+* Banner slider dots custom style
+*/
+.home-banner .slick-dots li {
+	width: auto;
+	height: auto;
+}
+
+.home-banner .slick-dots li button {
+	width: 30px;
+	height: 3px;
+	padding: 0;
+	background-color: #ddd;
+}
+
+.home-banner .slick-dots li.slick-active button {
+	background-color: var(--clr-primary);
+}
+
+.home-banner .slick-dots li button:before {
+	display: none;
+}
