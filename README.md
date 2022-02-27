@@ -7,7 +7,7 @@
 This is a Niche website (single product category selling website).
 
 This project is deployed on Firebase. To visit the live website [click here](https://car1-react-website.firebaseapp.com/).\
-To login as an Admin use `admin@admin.com` and `AdminPath1234` respectively for Username and Password.
+To login as an Admin use `admin@admin.com` and `AdminP@th1234!` respectively for Username and Password.
 
 For the server-side repository [click here](https://github.com/prangancode/car-nation-server-side).
 
