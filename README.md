@@ -13,14 +13,16 @@ For the server-side repository [click here](https://github.com/prangancode/car-n
 
 ## About This Project
 
-Here is a brief about this project: 
+Here is a brief about this project:
+
 - Lightening fast :zap: smooth experience with ReactJS
 - Dynamic server-side hosted on Heroku
 - Interactive functional dashboard panel with API management for both admin and general user.
 - Contents, e.g. `orders`, `products`, `users` are completely manageable from the dashboard.
 - Firebase secured multiple authentication system
 
-	![image](https://img.shields.io/badge/Email%20&%20Password-FFC905?style=for-the-badge) ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+  ![image](https://img.shields.io/badge/Email%20&%20Password-FFC905?style=for-the-badge) ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
 - Robust and adaptive layout to perfectly match any device form factor
 - Organized and well-commented codes to keep it clean on both the developer and client sides
 - Niche website (single product category selling website)
@@ -38,8 +40,8 @@ This site is a Niche website (single product category selling website). So it ca
 
 ### `data`
 
-Data used from Dynamic backend server on [Heroku](https://guarded-beach-83428.herokuapp.com/).\
-For example, here is the [blogs link](https://guarded-beach-83428.herokuapp.com/blogs) for this project.
+Data used from Dynamic backend server on [Heroku](https://car-nation-server-side-production.up.railway.app/).\
+For example, here is the [blogs link](https://car-nation-server-side-production.up.railway.app/blogs) for this project.
 
 ### `icons`
 
